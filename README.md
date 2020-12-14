@@ -1,1 +1,1 @@
-# Selection-Sort-Algorithm-in-C-
+# Selection-Sort-Algorithm-Example
